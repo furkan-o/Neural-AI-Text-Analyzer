@@ -1,7 +1,5 @@
 # 🧠 Neural AI Text Analyzer
 
-Google'ın yeni **Neural Expressive** tasarım dilini kullanarak, seçtiğiniz metinlerin yapay zeka tarafından yazılıp yazılmadığını **Gemini 3.1 Flash-Lite** modeli ile analiz eden modern bir Chrome eklentisi.
-
 Bu eklenti; salt bir "AI mi değil mi?" yüzdesinin ötesine geçerek metni **Stilometri**, **Burstiness** (Cümle dalgalanmaları) ve **Perplexity** (Tahmini şaşkınlık) metriklerine göre heuristik olarak inceler.
 
 ## ✨ Özellikler
